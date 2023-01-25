@@ -28,12 +28,12 @@ def top_pc(x):
                       f"men o'ylagan son bundan kattaroq (+), kichikroq (-),"
                       ">>>")
         b=b//2
-        if javob=="kt":
+        if javob=="+":
             if b==1:
                 b=1
             a=a+b
             
-        elif javob=="kch":
+        elif javob=="-":
             if b==1:
                 b=1
             a=a-b
