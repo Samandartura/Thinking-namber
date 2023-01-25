@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 11 11:48:39 2023
 
-@author: User
-"""
 import random
 
 def sontop(x):
@@ -30,7 +25,7 @@ def top_pc(x):
     while 1:
         pc_taxmin+=1
         javob = input(f"Siz {a} sonini o'yladingiz: tog'ri (t),"
-                      f"men o'ylagan son bundan kattaroq (kt), kichikroq (kch),"
+                      f"men o'ylagan son bundan kattaroq (+), kichikroq (-),"
                       ">>>")
         b=b//2
         if javob=="kt":
@@ -72,23 +67,6 @@ def play():
     
 
 print(play())
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
