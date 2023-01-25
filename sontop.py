@@ -29,12 +29,12 @@ def top_pc(x):
                       ">>>")
         b=b//2
         if javob=="+":
-            if b==1:
+            if b<=1:
                 b=1
             a=a+b
             
         elif javob=="-":
-            if b==1:
+            if b<=1:
                 b=1
             a=a-b
             
