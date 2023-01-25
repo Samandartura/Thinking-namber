@@ -30,7 +30,7 @@ def top_pc(x):
         b=b//2
         if javob=="kt":
             if b==1:
-                b=2
+                b=1
             a=a+b
             
         elif javob=="kch":
