@@ -1,2 +1,2 @@
-# Thinking-namber
-This is game that you are thinking namber finding after pc is thinking namber , you must find
+# Thinking-number
+This is game that you are thinking number finding after pc is thinking number , you must find
